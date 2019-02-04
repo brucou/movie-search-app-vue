@@ -5,7 +5,8 @@ import App from "./App";
 
 Vue.config.productionTip = false;
 
-/* eslint-disable no-new */
+// State machine for the app is here
+// ..\movie search good fsm corrected flowchart no emphasis switchMap.png
 new Vue({
   el: "#root",
   components: { App },
