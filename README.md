@@ -12,7 +12,10 @@ front-end frameworks. So far, implementation exists for :
   - [react](https://codesandbox.io/s/kwn3lx2qx7)
   - [ivi](https://github.com/brucou/movie-search-app-ivi)
 
+You can review the demo in the [codesandbox](https://codesandbox.io/s/ook2p400y6)
+
 # Lesson learnt
+**TODO**
 Porting the application to Svelte proved challenging (took close to two days vs. a few hours for 
 the other frameworks) :
 - a template language without IDE suuport
